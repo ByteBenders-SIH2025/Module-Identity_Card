@@ -1,0 +1,7 @@
+{
+    "name": "Identity_Card",
+    "version": "1.0.0",
+    "description": "A simple module to display and update identity card info",
+    "author": "ByteBenders",
+    "dependencies": []
+}
