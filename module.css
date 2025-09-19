@@ -1,0 +1,19 @@
+.identity-card {
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+.identity-card h2 {
+    margin-bottom: 15px;
+}
+
+.identity-card button {
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
